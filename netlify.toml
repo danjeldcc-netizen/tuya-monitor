@@ -1,0 +1,13 @@
+# Netlify configuration file
+
+# Build settings
+[build]
+  # Directory to publish (your built frontend files)
+  publish = "dist"
+  # Build command to run
+  command = "npm run build"
+
+# Functions settings
+[functions]
+  # Directory where your serverless functions are located
+  directory = "netlify/functions"

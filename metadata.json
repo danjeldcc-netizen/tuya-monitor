@@ -1,0 +1,5 @@
+{
+  "name": "Tuya Power Plant Monitor",
+  "description": "An application to automatically monitor power output from a home power plant and send the data to a Tuya Smart virtual device. It fetches data every 30 seconds.",
+  "requestFramePermissions": []
+}
