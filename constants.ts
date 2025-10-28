@@ -1,8 +1,6 @@
 // Tuya Device Configuration
-// This ID is safe to be public and is used to identify the device.
 export const TUYA_DEVICE_ID = '26ae8a44835099d82fwpge';
-// The TUYA_DEVICE_SECRET has been moved to the secure backend (Netlify Function).
-// It should NEVER be stored in frontend code.
+export const TUYA_DEVICE_SECRET = '9UC1FIl4tglAqL0J';
 export const TUYA_DEVICE_NAME = 'Soncnaelektrarna28c0';
 
 // MQTT Configuration
